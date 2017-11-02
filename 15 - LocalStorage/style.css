@@ -64,7 +64,9 @@
     }
 
     .plates input:checked + label:before {
-      content: '🌮';
+        content:"\00ab"; 
+        display: inline-block;
+        transform: rotate(180deg);
     }
 
     .add-items {
