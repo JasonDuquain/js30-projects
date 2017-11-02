@@ -1,0 +1,64 @@
+html {
+  box-sizing: border-box;
+  background:#eeeeee;
+  font-family:'helvetica neue';
+  font-size: 20px;
+  font-weight: 200;
+}
+body {
+  margin: 0;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.site-wrap {
+  transition: transform 0.5s;
+}
+
+//body.fixed-nav .site-wrap {
+    
+}
+
+header {
+  
+}
+
+h1 {
+  
+}
+
+nav {
+  
+}
+
+//body.fixed-nav nav {
+    
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav li {
+  
+}
+
+li.logo { 
+	transition: all 0.5s;
+	
+}
+
+li.logo a {
+  
+}
+
+//.fixed-nav li.logo {
+    
+}
+
+nav a {
+	text-decoration: none;
+    transition:all 0.2s;
+    
+}

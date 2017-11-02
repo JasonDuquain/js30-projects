@@ -1,0 +1,90 @@
+html {
+    box-sizing: border-box;
+    font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    min-height: 100vh;
+    background:
+        linear-gradient(45deg, hsla(340, 100%, 55%, 1) 0%, hsla(340, 100%, 55%, 0) 70%),
+        linear-gradient(135deg, hsla(225, 95%, 50%, 1) 10%, hsla(225, 95%, 50%, 0) 80%),
+        linear-gradient(225deg, hsla(140, 90%, 50%, 1) 10%, hsla(140, 90%, 50%, 0) 80%),
+        linear-gradient(315deg, hsla(35, 95%, 55%, 1) 100%, hsla(35, 95%, 55%, 0) 70%);
+}
+
+nav {
+    
+}
+
+.cool > li > a {
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+
+nav ul {
+    list-style: none;
+    
+}
+
+.cool > li {
+    
+}
+
+.dropdown {
+    
+}
+
+.trigger-enter .dropdown {
+    
+}
+
+.trigger-enter-active .dropdown {
+    
+}
+
+.dropdownBackground {
+    
+}
+
+.dropdownBackground.open {
+    
+}
+
+.arrow {
+    
+}
+
+.bio {
+    
+}
+
+.bio img {
+    
+}
+
+.courses {
+    
+}
+
+.courses li {
+    
+}
+
+.dropdown a {
+    text-decoration: none;
+    
+}
+
+a.button {
+    
+}
+
+
+/* Matches Twitter, TWITTER, twitter, tWitter, TWiTTeR... */
+.button[href*=twitter] {  }
+.button[href*=facebook] {  }
+.button[href*=courses] {  }
